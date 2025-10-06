@@ -1,0 +1,238 @@
+.desktop {
+  overflow: hidden;
+  background: linear-gradient(
+    270deg,
+    rgba(7, 7, 7, 1) 0%,
+    rgba(27, 105, 127, 1) 91%
+  );
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  display: flex;
+}
+
+.desktop .div {
+  width: 1460px;
+  height: 815px;
+  margin-left: -20px;
+  position: relative;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.desktop .chart {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 1440px;
+  height: 815px;
+  aspect-ratio: 1.6;
+  object-fit: cover;
+}
+
+.desktop .rectangle {
+  top: 40px;
+  left: 1134px;
+  width: 265px;
+  height: 64px;
+  background-color: #285bdd;
+  opacity: 0.5;
+  position: absolute;
+  border-radius: 100px;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 40px;
+  left: 1251px;
+  width: 241px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .search {
+  position: absolute;
+  top: 50px;
+  left: 1166px;
+  width: 43px;
+  height: 43px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .rectangle-2 {
+  top: 589px;
+  left: 91px;
+  width: 501px;
+  height: 111px;
+  background-color: #275bdc;
+  position: absolute;
+  border-radius: 100px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 604px;
+  left: 253px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.desktop {
+  background: linear-gradient(
+    270deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(27, 105, 127, 1) 100%
+  );
+  width: 100%;
+  min-width: 1440px;
+  min-height: 1024px;
+  position: relative;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 46px;
+  width: 293px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .desain-tanpa-judul {
+  position: absolute;
+  top: 0;
+  left: 309px;
+  width: 295px;
+  height: 209px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .div {
+  position: absolute;
+  top: 134px;
+  left: 53px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 150px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .solana {
+  top: 721px;
+  left: 554px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .img {
+  top: 338px;
+  left: 86px;
+  width: 213px;
+  height: 213px;
+  position: absolute;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 551px;
+  left: 113px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .eth-removebg-preview {
+  position: absolute;
+  top: 332px;
+  left: 425px;
+  width: 225px;
+  height: 225px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 557px;
+  left: 425px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .pepe-removebg {
+  position: absolute;
+  top: 338px;
+  left: 798px;
+  width: 225px;
+  height: 225px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 584px;
+  left: 854px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .bitcoin-svg-removebg {
+  position: absolute;
+  top: 338px;
+  left: 1179px;
+  width: 225px;
+  height: 225px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 573px;
+  left: 1179px;
+  font-family: "Jomhuria-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
